@@ -13,7 +13,7 @@ kind: Deployment
 metadata:
   name: spinnaker-demo
   labels:
-    source: demo1
+    source: demo2
     stack: frontend
     app: spinnaker
 spec:
